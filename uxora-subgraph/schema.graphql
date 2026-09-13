@@ -1,0 +1,12 @@
+type Wireframe @entity(immutable: false) {
+  id: String!
+  wireframeId: String!
+  name: String!
+  ipfsHash: String!
+  creator: Bytes!
+  createdAt: BigInt!
+  updatedAt: BigInt!
+  blockNumber: BigInt!
+  blockTimestamp: BigInt!
+  transactionHash: Bytes!
+}

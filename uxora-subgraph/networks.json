@@ -1,0 +1,8 @@
+{
+  "sepolia": {
+    "UxoraRegistry": {
+      "address": "0x0000000000000000000000000000000000a07e1f",
+      "startBlock": 0
+    }
+  }
+}
